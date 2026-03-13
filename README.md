@@ -15,19 +15,3 @@ Passionnée par l'analyse de données et l'intelligence artificielle, je transfo
 
 ---
 
-### 🚀 Projets Phares
-
-#### 🧬 [Optimisation Métaheuristique : Étude Comparative](lien-vers-ton-projet)
-*Analyse de performance entre GA, SA et Tabu Search sur des problèmes complexes.*
-* **Technologies:** Python, Analyse de complexité.
-* **Key Insight:** Comparaison du temps d'exécution vs score de fitness.
-
-#### 📸 [Sentiment Analysis - Instagram Scraping](lien-vers-ton-projet)
-*Extraction de données sociales pour prédire la nature des posts et l'engagement.*
-* **Technologies:** Selenium/BeautifulSoup, NLP, Scikit-Learn.
-
-
-
-
-
----
